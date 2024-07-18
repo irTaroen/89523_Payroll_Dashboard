@@ -1,0 +1,5 @@
+- Timeline voor klanten per periode
+- Status stappen per klant
+- Verantwoordelijke per klant per stap
+- KPI per medewerker
+- Forecast aantal medewerkers per klant per periode
